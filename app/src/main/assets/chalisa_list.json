@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "हनुमान चालीसा",
+    "image": "hanuman_img",
+    "fileName": "hanuman_chalisa.json"
+  },
+  {
+    "id": "2",
+    "name": "श्री कृष्ण चालीसा",
+    "image": "krishna_img",
+    "fileName": "krishna_chalisa.json"
+  },
+  {
+    "id": "3",
+    "name": "श्री राम चालीसा",
+    "image": "ram_img",
+    "fileName": "ram_chalisa.json"
+  },
+  {
+    "id": "4",
+    "name": "दुर्गा चालीसा",
+    "image": "durga_img",
+    "fileName": "durga_chalisa.json"
+  },
+  {
+    "id": "5",
+    "name": "काली चालीसा",
+    "image": "kali_img",
+    "fileName": "kali_chalisa.json"
+  },
+  {
+    "id": "6",
+    "name": "जाहरवीर बाबा चालीसा",
+    "image": "jaharveer_img",
+    "fileName": "jaharveer_chalisa.json"
+  },
+  {
+    "id": "7",
+    "name": "विष्णु चालीसा",
+    "image": "vishnu_img",
+    "fileName": "vishnu_chalisa.json"
+  },
+  {
+    "id": "8",
+    "name": "शिव चालीसा",
+    "image": "shiv_img",
+    "fileName": "shiv_chalisa.json"
+  }
+]

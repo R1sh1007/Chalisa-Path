@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Theme.MySplashscreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/card_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ch_logo2</item>
+        <item name="postSplashScreenTheme">@style/Theme.ChalisaPath</item>
+        <item name="android:windowBackground">@drawable/bg_theme</item>
+    </style>
+
+    <style name="Theme.ChalisaPath" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>
