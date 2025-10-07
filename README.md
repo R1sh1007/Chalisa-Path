@@ -16,7 +16,7 @@ A modern Android application for devotional Chalisa readings, built with Jetpack
 - **Kotlin Coroutines & Flow** - Asynchronous programming
 
 
-## 🏗️ Visual
+##  Visual
 
  <img width="1024" height="500" alt="plI867xM5XjS_1024_500" src="https://github.com/user-attachments/assets/cdf90904-75d8-4358-89f4-cc5406c8afa0" />
 
